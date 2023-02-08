@@ -8,24 +8,7 @@
 </head>
 <body>
     <?php 
-    //  $note1 = 15;
-    //  $note2 =20;
-    //  $sumNote = $note1 + $note2;
-     
-    
-    //  if ( $sumNote >= 0.06) {
-    //     echo "grade will be First Division";
-        
-    //  }
-    //  elseif ($sumNote >= 0.45 && $sumNote < 0.59)
-    //  {
-    //     echo "grade will be Second Division";
-    //  }
-    //  elseif($numNote >= 0.33 && $numNote < 0.44){
-    //     echo "grade will be Third Division";}
-    // elseif($numNote < 0.33){
-    // echo"student will be Fail.";
-    // }
+   
     
 
 $notes = 70;
